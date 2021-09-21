@@ -30,8 +30,18 @@ Component Design Patterns
 Where To Go From Here?
 Appendix: Extra Bits
 
-Vue Fundamentals
+
+
+1. Fundamentals
+- installation
+
+Documentation: https://v3.vuejs.org/guide/installation.html
+
+2. Vue Fundamentals
 - gettings started
 
-1. Load Vue
-2. Create a new instance of Vue
+2.1 Load Vue
+2.2 Create a new instance of Vue
+
+
+
