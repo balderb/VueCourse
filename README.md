@@ -47,4 +47,3 @@ When working with a cdn (in this case in vueJS), be aware that it's loaded in th
 2.2 Create a new instance of Vue
 
 
-
