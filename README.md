@@ -37,6 +37,9 @@ Appendix: Extra Bits
 
 Documentation: https://v3.vuejs.org/guide/installation.html
 
+Pay attantion: 
+When working with a cdn (in this case in vueJS), be aware that it's loaded in the index file before the app.js script file. 
+
 2. Vue Fundamentals
 - gettings started
 
